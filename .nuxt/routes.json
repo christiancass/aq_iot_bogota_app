@@ -1,0 +1,79 @@
+[
+  {
+    "name": "alarms",
+    "path": "/alarms",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\alarms.vue",
+    "chunkName": "pages/alarms",
+    "_name": "_f906fa58"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_1e27e7f2"
+  },
+  {
+    "name": "devices",
+    "path": "/devices",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\devices.vue",
+    "chunkName": "pages/devices",
+    "_name": "_5a3bd73b"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_4d606572"
+  },
+  {
+    "name": "mapa",
+    "path": "/mapa",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\mapa.vue",
+    "chunkName": "pages/mapa",
+    "_name": "_570ad617"
+  },
+  {
+    "name": "maps",
+    "path": "/maps",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\maps.vue",
+    "chunkName": "pages/maps",
+    "_name": "_58087d29"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\register.vue",
+    "chunkName": "pages/register",
+    "_name": "_e81b1b96"
+  },
+  {
+    "name": "templates",
+    "path": "/templates",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\templates.vue",
+    "chunkName": "pages/templates",
+    "_name": "_3e24e617"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_07f645a4"
+  },
+  {
+    "name": "GeneralViews-NotFoundPage",
+    "path": "/GeneralViews/NotFoundPage",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\GeneralViews\\\\NotFoundPage.vue",
+    "chunkName": "pages/GeneralViews/NotFoundPage",
+    "_name": "_714a1854"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\AQ SYS IOT\\\\app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0fa82a30"
+  }
+]
